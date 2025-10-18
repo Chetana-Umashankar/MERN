@@ -1,0 +1,13 @@
+h1
+{
+    color:rgba(228, 40, 40, 0.767);
+}
+p
+{
+    color: rgb(255, 6, 6);
+    background-color:rgb(223, 150, 67);
+}
+img[title=css]
+{
+    border: 50px solid rgba(228, 161, 62, 0.911);
+}
